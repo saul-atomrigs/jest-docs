@@ -1,4 +1,7 @@
 # jest-docs
+- Matchers
+
+### Matchers
 ```ts
 import { sum } from './firstTest';
 
